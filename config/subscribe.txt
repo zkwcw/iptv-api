@@ -11,3 +11,8 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://daili.korice.eu.org/https://raw.githubusercontent.com/judy-gotv/iptv/refs/heads/main/smart.txt
+https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
+https://pan.jl8.top/down.php/41086e57686776d9b64f3a223f438ee6.txt
+https://live.kakaxi-1.ink/ipv4.1.txt
+http://blog.cqshushu.com/jiekou.php?jk=m3u&token=5ec6d876beedff5b5c34b29328301500
