@@ -55,3 +55,4 @@ https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
