@@ -2,11 +2,9 @@
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 
-☘️浙江频道,#genre#
+☘️广东频道,#genre#
 
-☘️北京频道,#genre#
-北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
-北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
+☘️浙江频道,#genre#
 
 ☘️上海频道,#genre#
 
@@ -32,6 +30,8 @@
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+
+☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
 
@@ -82,9 +82,7 @@
 🏀体育频道,#genre#
 
 🪁动画频道,#genre#
+少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-
-🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
