@@ -1,48 +1,20 @@
-📺央视频道,#genre#
-CCTV-1,http://112.27.235.94:8000/hls/1/index.m3u8
-CCTV-2,http://112.27.235.94:8000/hls/2/index.m3u8
-CCTV-3,http://112.27.235.94:8000/hls/3/index.m3u8
-CCTV-5,http://112.27.235.94:8000/hls/5/index.m3u8
-CCTV-5+,http://112.27.235.94:8000/hls/6/index.m3u8
-CCTV-6,http://112.27.235.94:8000/hls/7/index.m3u8
-CCTV-7,http://112.27.235.94:8000/hls/8/index.m3u8
-CCTV-8,http://112.27.235.94:8000/hls/9/index.m3u8
-CCTV-9,http://112.27.235.94:8000/hls/10/index.m3u8
-CCTV-10,http://112.27.235.94:8000/hls/11/index.m3u8
-CCTV-11,http://112.27.235.94:8000/hls/12/index.m3u8
-CCTV-12,http://112.27.235.94:8000/hls/13/index.m3u8
-CCTV-13,http://112.27.235.94:8000/hls/14/index.m3u8
-CCTV-14,http://112.27.235.94:8000/hls/15/index.m3u8
-CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
-
 💰央视付费频道,#genre#
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://112.27.235.94:8000/hls/41/index.m3u8
-黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
-安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
-江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
-山东卫视,http://112.27.235.94:8000/hls/34/index.m3u8
-陕西卫视,http://112.27.235.94:8000/hls/43/index.m3u8
-四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
-天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
-云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
 
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 
 ☘️北京频道,#genre#
-北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
-北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
+北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 
 ☘️上海频道,#genre#
 第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
@@ -55,6 +27,7 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
+镇江新闻综合,http://cm-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
@@ -63,9 +36,6 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
-武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8?zsicd
@@ -122,7 +92,6 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 
 ☘️黑龙江频道,#genre#
 哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
-哈尔滨生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f5e239&tk=6949f8ce7202
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,rtmp://masterpull.hljtv.com/live/BowdCSzZ
 
@@ -132,10 +101,8 @@ CCTV-15,http://112.27.235.94:8000/hls/16/index.m3u8
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 🪁动画频道,#genre#
+少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
 音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-
-🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
