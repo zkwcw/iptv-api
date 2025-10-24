@@ -14,10 +14,9 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+宜兴新闻,https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
-睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
 
 ☘️湖南频道,#genre#
@@ -26,6 +25,8 @@
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
@@ -58,7 +59,6 @@
 安徽影视,http://112.27.235.94:8000/hls/24/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
-淮南新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6aa4d5&tk=6949f8ce7202
 
 ☘️宁夏频道,#genre#
 
@@ -74,10 +74,13 @@
 ☘️青海频道,#genre#
 
 ☘️黑龙江频道,#genre#
-哈尔滨影视,http://111.43.126.240:9003/hls/5/index.m3u8
+哈尔滨影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6a69f7&tk=6949f8ce7202
 哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,rtmp://masterpull.hljtv.com/live/BowdCSzZ
+
+🌊港·澳·台,#genre#
+Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎬电影频道,#genre#
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
@@ -86,6 +89,7 @@
 
 🪁动画频道,#genre#
 少儿动画,http://1b6467f415.iok.la:9931/tsfile/live/1057_1.m3u8
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
