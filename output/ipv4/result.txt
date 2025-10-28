@@ -1,12 +1,20 @@
+📺央视频道,#genre#
+CCTV-1,http://sh.lnott.top:880/dx01.m3u8
+CCTV-7,http://sh.lnott.top:880/dx07.m3u8
+CCTV-15,http://sh.lnott.top:880/dx15.m3u8
+
 💰央视付费频道,#genre#
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
+海南卫视,http://sh.lnott.top:880/dx58.m3u8
+河北卫视,http://sh.lnott.top:880/dx63.m3u8
+宁夏卫视,http://sh.lnott.top:880/dx53.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
+西藏卫视,http://sh.lnott.top:880/dx57.m3u8
 
 ☘️广东频道,#genre#
 
@@ -14,52 +22,52 @@
 
 ☘️北京频道,#genre#
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
+北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
+北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+宜兴新闻,https://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
-睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
+镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&amp;wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 
 ☘️湖北频道,#genre#
-湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 
 ☘️广西频道,#genre#
 
 ☘️天津频道,#genre#
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
-剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-
-☘️河南频道,#genre#
 
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
+哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
+哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
 ☘️山东频道,#genre#
+济宁综合,http://111.14.181.15:9901/tsfile/live/1007_1.m3u8
 烟台公共,http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8
 烟台新闻综合,http://live.yantaitv.cn/live/3e81a8879da44c5dadf3bd9c10468e1c/9b776d420ee4438199b7657c8eb88f07-1.m3u8
 烟台经济科技,http://live.yantaitv.cn/live/27f84144e95a4652ae9e5c211b2a6b55/405f3e33ba384aa0a16014d0becd1261-1.m3u8
@@ -75,13 +83,13 @@
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
-汪清综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e3b65b&tk=6949f8ce7202
 
 ☘️内蒙古频道,#genre#
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
 
 ☘️云南频道,#genre#
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+美丽云南,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=440ed9&tk=6949f8ce7202
 通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 
 ☘️青海频道,#genre#
@@ -92,9 +100,6 @@
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,rtmp://masterpull.hljtv.com/live/BowdCSzZ
 
-🌊港·澳·台,#genre#
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
 🎬电影频道,#genre#
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 
@@ -104,7 +109,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
