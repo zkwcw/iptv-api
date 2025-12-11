@@ -47,8 +47,6 @@
 夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
-☘️陕西频道,#genre#
-
 ☘️福建频道,#genre#
 
 ☘️河南频道,#genre#
@@ -64,7 +62,7 @@
 ☘️山东频道,#genre#
 
 ☘️山西频道,#genre#
-黎城综合,http://111.53.96.67:8081/live/1/index.m3u8
+黎城综合,http://111.53.96.67:8081/live/1/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 
 ☘️安徽频道,#genre#
 安徽影视,http://112.27.235.94:8000/hls/24/index.m3u8
@@ -92,13 +90,9 @@
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,rtmp://masterpull.hljtv.com/live/BowdCSzZ
 
-🌊港·澳·台,#genre#
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-天元围棋,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8487&tk=a0c4f6cfaba3
 
 🪁动画频道,#genre#
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
