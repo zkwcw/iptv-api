@@ -29,6 +29,9 @@
 ☘️广西频道,#genre#
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 
+☘️天津频道,#genre#
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
