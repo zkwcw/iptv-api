@@ -1,10 +1,43 @@
+📺央视频道,#genre#
+CCTV-2,http://39.152.103.17:8089/tsfile/live/1001_1.m3u8
+CCTV-3,http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+CCTV-4,http://39.152.103.17:8089/tsfile/live/1003_1.m3u8
+CCTV-5,http://39.152.103.17:8089/tsfile/live/1004_1.m3u8
+CCTV-6,http://39.152.103.17:8089/tsfile/live/1005_1.m3u8
+CCTV-7,http://39.152.103.17:8089/tsfile/live/1006_1.m3u8
+CCTV-8,http://39.152.103.17:8089/tsfile/live/1007_1.m3u8
+CCTV-9,http://39.152.103.17:8089/tsfile/live/1008_1.m3u8
+CCTV-11,http://39.152.103.17:8089/tsfile/live/1010_1.m3u8
+CCTV-12,http://39.152.103.17:8089/tsfile/live/1011_1.m3u8
+CCTV-14,http://39.152.103.17:8089/tsfile/live/1013_1.m3u8
+CCTV-15,http://39.152.103.17:8089/tsfile/live/1014_1.m3u8
+
 💰央视付费频道,#genre#
 怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
 女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 
+📡卫视频道,#genre#
+广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+北京卫视,http://39.152.103.17:8089/tsfile/live/1034_1.m3u8
+黑龙江卫视,http://39.152.103.17:8089/tsfile/live/1055_1.m3u8
+重庆卫视,http://39.152.103.17:8089/tsfile/live/1048_1.m3u8
+东方卫视,http://39.152.103.17:8089/tsfile/live/1036_1.m3u8
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+广西卫视,http://39.152.103.17:8089/tsfile/live/1077_1.m3u8
+海南卫视,http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+四川卫视,http://39.152.103.17:8089/tsfile/live/1044_1.m3u8
+
+☘️广东频道,#genre#
+
 ☘️浙江频道,#genre#
 
+☘️北京频道,#genre#
+北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
+北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
+
 ☘️上海频道,#genre#
+都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -13,8 +46,11 @@
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
+镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
@@ -23,6 +59,10 @@
 
 ☘️广西频道,#genre#
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
+
+☘️天津频道,#genre#
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
+武清综合,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
@@ -34,18 +74,21 @@
 
 ☘️福建频道,#genre#
 
+☘️河南频道,#genre#
+
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
 嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
-天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
-成县综合,https://play.kankanlive.com/live/1702454377323961.m3u8
 永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
 
 ☘️新疆频道,#genre#
+哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
+哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
+哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
@@ -87,6 +130,7 @@
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
+音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
