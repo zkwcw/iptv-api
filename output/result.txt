@@ -26,7 +26,7 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
@@ -61,13 +61,17 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 
 ☘️上海频道,#genre#
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-都市剧场,http://183.239.236.91:8088/hls/127/index.m3u8
+都市剧场,http://183.237.95.108:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
+宜兴新闻,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
+宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
+江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
 
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
@@ -75,7 +79,6 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
-南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 
 ☘️天津频道,#genre#
 
@@ -139,6 +142,3 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-
-🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
