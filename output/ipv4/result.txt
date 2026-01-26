@@ -1,7 +1,4 @@
 📺央视频道,#genre#
-CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
-CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
@@ -25,7 +22,7 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
 吉林卫视,http://23.237.228.134/live8/jilin.m3u8
@@ -43,11 +40,11 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
 浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
@@ -90,6 +87,8 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 
 ☘️福建频道,#genre#
 
+☘️河南频道,#genre#
+
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
@@ -116,6 +115,7 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
+延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
 
 ☘️内蒙古频道,#genre#
 内蒙农牧,http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
@@ -140,6 +140,3 @@ CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-
-🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
