@@ -1,10 +1,15 @@
+📺央视频道,#genre#
+CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-5+,http://74.91.26.218:82/live/cctv5p.m3u8
+
 💰央视付费频道,#genre#
-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 高尔夫网球,http://39.152.103.17:8089/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&down=1
 
 📡卫视频道,#genre#
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
+
+☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
@@ -20,7 +25,6 @@
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
-滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
 
@@ -30,9 +34,7 @@
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
-南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
-
-☘️天津频道,#genre#
+南宁影娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
@@ -41,13 +43,13 @@
 夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
+☘️陕西频道,#genre#
+
 ☘️福建频道,#genre#
 
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
-嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
-永昌综合,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 
@@ -65,10 +67,12 @@
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
+淮南新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6aa4d5&tk=6949f8ce7202
 
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
+延边-1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=325f64&tk=6949f8ce7202
 
 ☘️内蒙古频道,#genre#
 
@@ -93,6 +97,3 @@
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-
-🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
