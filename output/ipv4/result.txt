@@ -3,6 +3,8 @@
 女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 高尔夫网球,http://39.152.103.17:8089/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&down=1
 
+☘️广东频道,#genre#
+
 ☘️浙江频道,#genre#
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
@@ -30,6 +32,7 @@
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+南宁影视娱乐,rtmp://hls.nntv.cn/nnlive/YSYL_244
 
 ☘️四川频道,#genre#
 什邡新闻,http://live.sfrmt.com:85/live/zhpd.m3u8
@@ -38,12 +41,15 @@
 夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
+☘️陕西频道,#genre#
+
 ☘️福建频道,#genre#
 
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
 嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
+天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
@@ -53,6 +59,7 @@
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
 ☘️山东频道,#genre#
+烟台经济科技,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=163713&tk=6949f8ce7202
 
 ☘️山西频道,#genre#
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
@@ -63,8 +70,10 @@
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
+灵璧综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c17afb&tk=6949f8ce7202
 
 ☘️宁夏频道,#genre#
+吴忠公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=784bdf&tk=6949f8ce7202
 
 ☘️吉林频道,#genre#
 
@@ -86,6 +95,7 @@
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
+天元围棋,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8487&tk=a0c4f6cfaba3
 
 🪁动画频道,#genre#
 24H国漫热播,https://lunbo.freetv.top/yy/1353937086
