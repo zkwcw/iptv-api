@@ -1,31 +1,20 @@
-📺央视频道,#genre#
-CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
-CCTV-5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
-CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
-
 💰央视付费频道,#genre#
 女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 高尔夫网球,http://39.152.103.17:8089/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&down=1
 
 📡卫视频道,#genre#
-北京卫视,http://111.56.90.5/000000000000/1000000005000265027/1.m3u8
-重庆卫视,http://111.56.90.5/000000000000/1000000005000265017/1.m3u8
-广西卫视,http://111.56.90.5/000000000000/1000000002000019837/1.m3u8
-贵州卫视,http://111.56.90.5/000000000000/1000000002000003169/1.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 内蒙古卫视,http://111.56.90.5/000000000000/5559214655508729688/1.m3u8
-山西卫视,http://111.56.90.5/000000000000/5000000006000040023/1.m3u8
-新疆卫视,http://111.56.90.5/000000000000/1000000002000029441/1.m3u8
 
 ☘️浙江频道,#genre#
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 
-☘️北京频道,#genre#
-北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
-北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
-
 ☘️上海频道,#genre#
-都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -34,9 +23,7 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
-睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
@@ -59,8 +46,6 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 
 ☘️福建频道,#genre#
 
-☘️河南频道,#genre#
-
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
@@ -70,9 +55,6 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 
 ☘️新疆频道,#genre#
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
@@ -116,8 +98,6 @@ CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-音乐现场,http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🏛经典剧场,#genre#
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
