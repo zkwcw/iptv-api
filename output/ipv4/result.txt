@@ -2,9 +2,19 @@
 女性时尚,http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 高尔夫网球,http://39.152.103.17:8089/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&down=1
 
+📡卫视频道,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+
 ☘️浙江频道,#genre#
+浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+
+☘️北京频道,#genre#
+北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
+北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
 
@@ -17,6 +27,7 @@
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
+镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
@@ -25,6 +36,8 @@
 
 ☘️广西频道,#genre#
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
@@ -43,9 +56,6 @@
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 
 ☘️新疆频道,#genre#
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
@@ -79,9 +89,6 @@
 哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
 双鸭山综合,rtmp://masterpull.hljtv.com/live/BowdCSzZ
 
-🌊港·澳·台,#genre#
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
@@ -91,3 +98,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
 🎵音乐频道,#genre#
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+
+🏛经典剧场,#genre#
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
