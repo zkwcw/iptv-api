@@ -23,7 +23,6 @@
 滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
-镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 ☘️湖南频道,#genre#
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
@@ -31,7 +30,6 @@
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
-南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 
 ☘️天津频道,#genre#
 
@@ -47,6 +45,7 @@
 
 ☘️甘肃频道,#genre#
 嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
+天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
@@ -86,9 +85,6 @@
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,rtmp://masterpull.hljtv.com/live/BowdCSzZ
 
-🌊港·澳·台,#genre#
-Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
@@ -97,3 +93,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
+西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
