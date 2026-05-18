@@ -19,6 +19,7 @@
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
 江宁新闻,rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
+滨海新闻综合,http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 赣榆新闻综合,rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
 
@@ -29,6 +30,8 @@
 
 ☘️广西频道,#genre#
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
@@ -46,9 +49,6 @@
 秦安综合,https://play.kankanlive.com/live/1659926941626981.m3u8
 
 ☘️新疆频道,#genre#
-哈密一套,https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-哈密二套,https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-哈密三套,https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
@@ -91,7 +91,3 @@
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-
-🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8

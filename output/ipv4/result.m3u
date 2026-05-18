@@ -19,6 +19,8 @@ rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 rtmp://cstvplay.21cs.cn/cstv2/cstv2
 #EXTINF:-1 tvg-name="江宁新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江宁新闻.png" group-title="☘️江苏频道",江宁新闻
 rtmp://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh
+#EXTINF:-1 tvg-name="滨海新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/滨海新闻综合.png" group-title="☘️江苏频道",滨海新闻综合
+http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
 #EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁综合.png" group-title="☘️江苏频道",睢宁综合
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赣榆新闻综合.png" group-title="☘️江苏频道",赣榆新闻综合
@@ -41,12 +43,6 @@ rtmp://play.kankanlive.com/live/1652755738635915
 http://play.kankanlive.com/live/1720408089419110.m3u8
 #EXTINF:-1 tvg-name="秦安综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/秦安综合.png" group-title="☘️甘肃频道",秦安综合
 https://play.kankanlive.com/live/1659926941626981.m3u8
-#EXTINF:-1 tvg-name="哈密一套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈密一套.png" group-title="☘️新疆频道",哈密一套
-https://tvpull.hmgbtv.com/hmtv/channel9cd66b3d5d258b2b.flv
-#EXTINF:-1 tvg-name="哈密二套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈密二套.png" group-title="☘️新疆频道",哈密二套
-https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8
-#EXTINF:-1 tvg-name="哈密三套" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/哈密三套.png" group-title="☘️新疆频道",哈密三套
-https://tvpull.hmgbtv.com/hmtv/channelfb0e5c505477aa44/playlist.m3u8
 #EXTINF:-1 tvg-name="可克达拉综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/可克达拉综合.png" group-title="☘️新疆频道",可克达拉综合
 http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 #EXTINF:-1 tvg-name="巴音郭楞州" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/巴音郭楞州.png" group-title="☘️新疆频道",巴音郭楞州
@@ -79,7 +75,3 @@ rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 rtmp://masterpull.hljtv.com/live/BowdCSzZ
 #EXTINF:-1 tvg-name="火影忍者" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/火影忍者.png" group-title="🪁动画频道",火影忍者
 https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
-#EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
-http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🏛经典剧场",西游记
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
