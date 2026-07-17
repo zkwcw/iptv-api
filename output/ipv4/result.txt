@@ -1,5 +1,7 @@
 💰央视付费频道,#genre#
 
+☘️广东频道,#genre#
+
 ☘️浙江频道,#genre#
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
@@ -28,21 +30,27 @@
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
-南宁影视娱乐,rtmp://hls.nntv.cn/nnlive/YSYL_244
 
 ☘️天津频道,#genre#
 津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 
 ☘️四川频道,#genre#
+剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 叙永综合,rtmp://luzhi.xuyongrongmei.com:1935/live/xyxw?zsicd
+夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
+朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
+
+☘️陕西频道,#genre#
 
 ☘️河南频道,#genre#
+禹州综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9c29b7&tk=6949f8ce7202
 
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
+嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 
 ☘️新疆频道,#genre#
