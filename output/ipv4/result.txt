@@ -5,7 +5,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 
 📡卫视频道,#genre#
 贵州卫视,http://198.204.228.26/live/gzwshd.m3u8
-辽宁卫视,http://198.204.228.26/live/lnwshd.m3u8
+
+☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
@@ -14,6 +15,10 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 浙江留学,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 湖州公共民生,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
+
+☘️北京频道,#genre#
+北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
+北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
 
 ☘️上海频道,#genre#
 
@@ -29,6 +34,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 
 ☘️湖南频道,#genre#
+长沙政法,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab1c5e&tk=6949f8ce7202
 衡阳新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8
 
 ☘️湖北频道,#genre#
@@ -37,6 +43,7 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_244.m3u8
 
 ☘️天津频道,#genre#
+津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd
 
 ☘️四川频道,#genre#
 仁寿综合,https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
@@ -45,10 +52,13 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 夹江新闻综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 
+☘️陕西频道,#genre#
+
+☘️河南频道,#genre#
+
 ☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
-嘉峪关综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
@@ -58,14 +68,17 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 巴音郭楞州,rtmp://tv.loulannews.cn/channellive/ch1
 
 ☘️山东频道,#genre#
+青州综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=47cbef&tk=6949f8ce7202
 
 ☘️山西频道,#genre#
-古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd
+定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
+平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 祁门综合,rtmp://tv.qmxrmt.com/chan/ch1
+安徽影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0964&tk=2894ccdba8fc
 
 ☘️宁夏频道,#genre#
 
@@ -74,10 +87,9 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
-易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
-通海电视台,https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8
 
 ☘️青海频道,#genre#
+化隆综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=28e8ff&tk=6949f8ce7202
 
 ☘️黑龙江频道,#genre#
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
@@ -86,6 +98,8 @@ CETV-1,http://198.204.228.26/live/cetv1hd.m3u8
 🎬电影频道,#genre#
 CHC家庭影院,http://198.204.228.26/live/chcjt.m3u8
 CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
+纬来电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34852
+龙祥电影,http://31.43.191.125:8080/vip6821768502490/6c17bae55394/34825
 
 🏀体育频道,#genre#
 
@@ -93,6 +107,4 @@ CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 
 🎵音乐频道,#genre#
-
-🏛经典剧场,#genre#
-西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
